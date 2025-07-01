@@ -17,3 +17,6 @@ Built with ❤️ using HTML, CSS, and JavaScript. No backend needed. Just pure 
 Frontend: HTML, CSS, JavaScript
 AI Engine: OpenAI GPT and DEMO
 API Key: Your personal OpenAI key (keep it secret!)
+
+Demo 
+http://localhost:54433/index.html?phcodeLivePreview=true 
